@@ -1,6 +1,6 @@
 ### Go template
 # Binaries for programs and plugins
-*apiserver
+
 *.exe
 *.exe~
 *.dll
@@ -19,3 +19,4 @@
 
 # /ignore goland config
 *.idea
+./apiserver
